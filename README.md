@@ -57,7 +57,7 @@ I am a computer engineering student . I’m interested in deepening my skills in
     <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white">
 </a>
 
-<a href= "">
+<a href= "https://x.com/dani_26Cr">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a><br><br>
 
