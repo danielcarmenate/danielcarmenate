@@ -11,7 +11,8 @@ I am a computer engineering student . I’m interested in deepening my skills in
   - Java
   - React js
 - 👫 I like to work and collaborate on open source projects..
-- Outside of technology, 📺 I like to watch TV series, 🎵 listen to music, 🌴 go to the beach in my free time, 🎮 and play games.
+- 💻 I like to keep up to date with all the latest technological trends through courses, conferences and personal projects.
+- 🔐 I believe in the power of clean code, clear documentation, and efficient solutions.
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">daniel0401r@gmail.com</a><br><br>
 
 ## 🛠️ My Skills Include
