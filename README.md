@@ -10,6 +10,7 @@ I am a computer engineering student . I’m interested in deepening my skills in
 - 🌱 I’m currently learning ...
   - Java
   - React js
+  - Flutter
 - 👫 I like to work and collaborate on open source projects..
 - 💻 I like to keep up to date with all the latest technological trends through courses, conferences and personal projects.
 - 🔐 I believe in the power of clean code, clear documentation, and efficient solutions.
